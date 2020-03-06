@@ -158,7 +158,7 @@ class _MainDashBoardPageState extends State<MainDashBoardPage> with SingleTicker
                     )
                   ],
                 ),
-              ),
+              ), 
             ),
           ),
         ),
